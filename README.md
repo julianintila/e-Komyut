@@ -1,6 +1,6 @@
 # Komyut
 
-A Philippine Commuter Guide for finding public transportation fares, terminals,
+MY Commuter Guide for finding public transportation fares, terminals,
 stations, and step-by-step routes.
 
 Bricks 1 through 15 provide documentation, typed design tokens, four-tab
